@@ -9,3 +9,20 @@ root@HWGemini:/data/user/0/com.hwh.myandfix/files/apatch # ls -l
 ```
 
 - Android中热修复框架AndFix原理解析及案例使用 https://blog.csdn.net/u011277123/article/details/53282381
+
+
+###  Linux 查看.so中导出函数
+- 方法一
+```
+nm -D  **.so
+```
+- 但这样能看到所有的导出，乱七八糟的很多，筛选用：
+```
+nm **.so | grep XX
+```
+
+
+- 方法二
+```
+objdump -tT **.so
+```
