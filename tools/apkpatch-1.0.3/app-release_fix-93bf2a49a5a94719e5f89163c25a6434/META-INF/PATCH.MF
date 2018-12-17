@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Patch-Name: app-release_fix
+Created-Time: 15 Dec 2018 08:40:19 GMT
+From-File: app-release_fix.apk
+To-File: app-release_bug.apk
+Patch-Classes: com.hwh.myandfix.MainActivity_CF
+Created-By: 1.0 (ApkPatch)
+

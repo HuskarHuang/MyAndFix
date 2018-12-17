@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Patch-Name: app-release_hwh_fix
+Created-Time: 15 Dec 2018 09:19:10 GMT
+From-File: app-release_hwh_fix.apk
+To-File: app-release_hwh_bug.apk
+Patch-Classes: com.hwh.test.hwh_CF
+Created-By: 1.0 (ApkPatch)
+

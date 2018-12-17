@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Patch-Name: app-debug_hwh_fix
+Created-Time: 17 Dec 2018 08:36:14 GMT
+From-File: app-debug_hwh_fix.apk
+To-File: app-debug_hwh_bug.apk
+Patch-Classes: com.hwh.test.hwh_CF
+Created-By: 1.0 (ApkPatch)
+
