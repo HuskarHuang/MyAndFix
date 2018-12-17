@@ -1,3 +1,5 @@
+### 将andfix c Android.mk改为CMakeLists.txt
+
 ```
 root@HWGemini:/data/user/0/com.hwh.myandfix/files/apatch_opt # ls -l
 -rw------- u0_a277  u0_a277     12720 2018-12-15 17:24 out.apatch
